@@ -142,10 +142,12 @@
     <ClCompile Include="Labs\Week02.cpp" />
     <ClCompile Include="Labs\Week03.cpp" />
     <ClCompile Include="Labs\week04.cpp" />
+    <ClCompile Include="Labs\week05.cpp" />
     <ClCompile Include="LinkedList\LinkedList.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Queue\CircularQueue.cpp" />
     <ClCompile Include="Queue\Queue.cpp" />
+    <ClCompile Include="Recursion\Recursion.cpp" />
     <ClCompile Include="Stack\ArrayStack.cpp" />
     <ClCompile Include="Stack\Stack.cpp" />
   </ItemGroup>
@@ -155,6 +157,7 @@
     <ClInclude Include="LinkedList\Node.h" />
     <ClInclude Include="Queue\CircularQueue.h" />
     <ClInclude Include="Queue\Queue.h" />
+    <ClInclude Include="Recursion\Recursion.h" />
     <ClInclude Include="Stack\ArrayStack.h" />
     <ClInclude Include="Stack\Stack.h" />
   </ItemGroup>
